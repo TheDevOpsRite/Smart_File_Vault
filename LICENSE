@@ -39,13 +39,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Notes and enforceability:
-- This is a custom, restrictive license and is not an open-source or
-	OSI-approved license. It limits distribution and commercial use. If you
-	intend to allow public collaboration or distribution (for example, accepting
-	pull requests or permitting forks), consider a permissions model or a more
-	permissive license instead.
-- License enforcement and interpretation are legal matters. Consider consulting
-	a qualified attorney if you need legally binding wording, enforcement, or a
-	dual-licensing strategy.
