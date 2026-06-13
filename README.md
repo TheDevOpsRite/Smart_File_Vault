@@ -16,6 +16,9 @@ Smart File Vault is a lightweight, open-source desktop application to securely s
 - **Build tooling:** Build and packaging helpers: `build.bat`, `build.py`, `SmartFileVault.spec`.
 - **Cross-platform packaging:** Includes PyInstaller spec and build outputs in `build/` for offline distribution.
 
+DONWLOAD
+Download here at https://github.com/TheDevOpsRite/Smart_File_Vault/releases/tag/v1.0.0
+
 **Quick Start**
 - Install dependencies: `pip install -r requirements.txt` ([requirements.txt](requirements.txt)).
 - Run from source: `python main.py` ([main.py](main.py)).
