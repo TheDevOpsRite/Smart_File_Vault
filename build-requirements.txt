@@ -1,0 +1,15 @@
+; Build Requirements for Smart File Vault Installer Development
+; Install with: pip install -r build-requirements.txt
+
+; Core Application Dependencies
+PySide6>=6.7.0
+cryptography>=42.0.0
+
+; Build Tools
+PyInstaller>=6.0.0
+
+; Optional Development Tools
+pytest>=7.0.0          ; For running tests
+black>=23.0.0          ; Code formatter
+pylint>=3.0.0          ; Code linter
+mypy>=1.0.0            ; Type checker
